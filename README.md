@@ -1,5 +1,3 @@
-![Banner](./banner.png)
-
 ### Hi, I'm Emiliano Ledesma 👋
 
 🎓 Systems Engineering student – 22 years old  
