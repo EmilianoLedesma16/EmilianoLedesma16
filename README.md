@@ -1,7 +1,7 @@
 ### Hi, I'm Emiliano Ledesma 👋
 
 🎓 Systems Engineering student – 22 years old  
-💻 Interested in software development, AI, automation, and databases  
+💻 Interested in software development, AI, augmented reality, automation, and databases  
 🔍 Always learning and improving my technical skills
 
 ### 🛠️ Technologies I use or am learning
