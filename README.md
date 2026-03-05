@@ -4,7 +4,7 @@
 💻 Interested in software development, AI, augmented reality, automation, and databases  
 🔍 Always learning and improving my technical skills
 
-### 🛠️ Technologies I use or am learning
+### 🛠️ Technologies I use
 
 - Python, Java, JavaScript, C, C++, C#
 - HTML, CSS, Node.js
